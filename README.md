@@ -1,3 +1,10 @@
+https://stories-with-dice.github.io/solo-roleplaying-toolkit/
+
+---
+
+Forked from https://github.com/Tayruh/solo-roleplaying-toolkit
+
+Original README:
 
 This toolkit takes the tables from popular oracles and quickly rolls on them with the click of a button. My goal was to provide extensive support for *Mythic*, *CRGE/UNE*, *Motif*, and *Calypso*. This utility covers nearly all functions of each system, excluding only those that do not require dice rolls or that were deemed unlikely to be used by players.
 
